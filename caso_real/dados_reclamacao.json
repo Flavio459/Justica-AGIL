@@ -1,0 +1,31 @@
+26412{
+  "reclamante": {
+    "nome": "Adriana de Maio Boffo Barros",
+    "telefone": "(19) 3936-5666",
+    "imovel": "Rua Jaraguá, 33 - Paulista II, Indaiatuba - SP"
+  },
+  "reclamada": {
+    "nome": "Imobiliária Baruke Imóveis",
+    "endereco": "Rua Edésio José Capovilla, 404 - Jardim Esplanada I, Indaiatuba/SP",
+    "creci": "030631-J"
+  },
+  "dados_reclamacao": {
+    "company_name": "Baruke Imóveis",
+    "title": "Recusa de Ressarcimento de Manutenção Hidráulica - Lei 8.245/91",
+    "facts": "Em 02/12/2025, solicitei formalmente abatimento de R$ 603,60 no aluguel referente a manutenção hidráulica corretiva realizada no imóvel locado (Rua Jaraguá, 33 - Paulista II, Indaiatuba/SP). A manutenção incluiu: (1) Substituição do registro do chuveiro DECA com castelo JNR-J213, que apresentava desgaste e funcionamento comprometido; (2) Substituição da boia de enchimento da caixa d'água Tigre 3/4, que apresentava ruptura na carcaça plástica. O serviço foi executado pela equipe de Luciano Monteiro de Oliveira (CPF 247.150.466-1), com materiais adquiridos na São José Hidráulica (NF PDV 49115). Conforme Lei 8.245/91 (Lei do Inquilinato), Artigo 22, é obrigação do LOCADOR manter o imóvel em condições de servir ao uso, e o Artigo 23 autoriza compensação de despesas de manutenção corretiva. A imobiliária Baruke Imóveis (CRECI 030631-J) se recusa a efetuar o abatimento devido.",
+    "request": "Solicito: (1) Abatimento imediato de R$ 603,60 no próximo vencimento do aluguel; (2) Caso não atendido, ressarcimento integral do valor gasto em manutenção corretiva que era obrigação do locador conforme Lei 8.245/91.",
+    "value": "R$ 603,60"
+  },
+  "fundamentacao_legal": [
+    "Lei 8.245/1991 (Lei do Inquilinato) - Art. 22: Obrigação do locador de manter o imóvel",
+    "Lei 8.245/1991 - Art. 23: Autorização para compensação de despesas",
+    "Código de Defesa do Consumidor - Relação de consumo com imobiliária"
+  ],
+  "evidencias": [
+    "Nota Fiscal São José Hidráulica - PDV 49115 - R$ 103,60",
+    "Recibo Manual nº 010/0 - Mão de obra - R$ 500,00",
+    "Fotografias das peças substituídas",
+    "Fotografias do local de execução",
+    "Mensagens WhatsApp com aprovação prévia"
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "version": "1.0",
+  "created_at": "2025-12-12T04:28:38.860460",
+  "selectors": {
+    "consumidor.gov.br": {
+      "login_button": [],
+      "new_claim_button": [],
+      "company_search": [],
+      "facts_textarea": [],
+      "request_textarea": [],
+      "submit_button": []
+    }
+  },
+  "patterns": {
+    "successful_claims": [],
+    "legal_references": [],
+    "company_mappings": {}
+  },
+  "errors": {
+    "captcha_solutions": [],
+    "selector_failures": [],
+    "login_issues": []
+  },
+  "statistics": {
+    "total_interactions": 23,
+    "successful_submissions": 0,
+    "failed_submissions": 0
+  },
+  "interaction_history": [
+    {
+      "timestamp": "2025-12-12T04:28:38.863381",
+      "type": "step",
+      "data": {
+        "step": "🚀 Iniciando navegador (Modo Simples)..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:28:38.910369",
+      "type": "step",
+      "data": {
+        "step": "❌ Erro: "
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:28:38.926282",
+      "type": "step",
+      "data": {
+        "step": "⏳ Mantendo navegador aberto por 30s para revisão..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:29:17.659962",
+      "type": "step",
+      "data": {
+        "step": "🚀 Iniciando navegador (Modo Simples)..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:29:25.158125",
+      "type": "step",
+      "data": {
+        "step": "🔓 Não está logado. Procurando botão de login..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:29:25.747855",
+      "type": "step",
+      "data": {
+        "step": "✅ Clicou em login: text=Entrar"
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:29:31.658796",
+      "type": "step",
+      "data": {
+        "step": "⏳ Aguardando você fazer login no Gov.br..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:29:31.668423",
+      "type": "step",
+      "data": {
+        "step": "👆 Por favor, complete o login na janela do navegador"
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:29:31.677287",
+      "type": "step",
+      "data": {
+        "step": "⏱️ Tempo limite: 5 minutos"
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:34:33.292030",
+      "type": "step",
+      "data": {
+        "step": "⏳ Mantendo navegador aberto por 30s para revisão..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:34:52.203070",
+      "type": "step",
+      "data": {
+        "step": "🚀 Iniciando navegador (Modo Stealth)..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:34:56.605438",
+      "type": "step",
+      "data": {
+        "step": "🌐 Acessando consumidor.gov.br..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:35:01.167529",
+      "type": "step",
+      "data": {
+        "step": "🔓 Não está logado. Procurando botão de login..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:35:02.216571",
+      "type": "step",
+      "data": {
+        "step": "✅ Clicou em login: text=Entrar"
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:35:07.170974",
+      "type": "step",
+      "data": {
+        "step": "⏳ Aguardando você fazer login no Gov.br..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:35:07.300886",
+      "type": "step",
+      "data": {
+        "step": "👆 Por favor, complete o login na janela do navegador"
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:35:07.312938",
+      "type": "step",
+      "data": {
+        "step": "⏱️ Tempo limite: 5 minutos"
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T04:40:07.812626",
+      "type": "step",
+      "data": {
+        "step": "⏳ Mantendo navegador aberto por 30s para revisão..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T12:30:16.797084",
+      "type": "step",
+      "data": {
+        "step": "⚡ Usando navegador já conectado..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-12T12:30:16.805099",
+      "type": "step",
+      "data": {
+        "step": "⏳ Mantendo navegador aberto por 30s para revisão..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-13T17:31:10.785518",
+      "type": "step",
+      "data": {
+        "step": "🚀 Conectando ao Chrome Manual (Porta 9222)..."
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-13T17:31:26.877090",
+      "type": "step",
+      "data": {
+        "step": "❌ Erro: "
+      },
+      "outcome": "in_progress"
+    },
+    {
+      "timestamp": "2025-12-13T17:31:36.880320",
+      "type": "step",
+      "data": {
+        "step": "⏳ Mantendo navegador aberto por 30s para revisão..."
+      },
+      "outcome": "in_progress"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+httpx
+python-jose
+python-multipart
+python-multipart
+httpx
+playwright
+pytest
+pytest-asyncio
+httpx
